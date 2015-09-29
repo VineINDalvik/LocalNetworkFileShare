@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LocalNetworkFileTranfer</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="select_file">选取共享目录</string>
+    <string name="title_activity_file_explorer">FileExplorer</string>
+    <string name="select">确定</string>
+
+    <string name="connect_hotspot">开启热点</string>
+
+</resources>

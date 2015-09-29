@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-209c1dd3ad1c89d8cc1e6285d2772f0346259626.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/pre-dexed/debug/classes-3917d0747f1772bc31d10d0ac009055d5feae954.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/pre-dexed/debug/classes-bf5e9e4a6b48d2e78598053a504e822655091e86.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/libs/zxing.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/pre-dexed/debug/zxing-5934fd4e4a34c9e53375b8828a421b8387d31f79.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/pre-dexed/debug/classes-70d544775e0457684245464f3bc8060a21151a01.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-3e6aff2ff00b7296d944a208bf191a041ae34d6d.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/xiovine/StudioProjects/LocalNetworkFileTranfer/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b6f5db0f96f21a54981ddf8e3b69aaf2e62eac29.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/libs/zxing.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="96b67e377ff4637ff1fa3bbe9ad7183773935f39">
+        <dex dex="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/pre-dexed/debug/zxing-239946e034a154594f3c42556a0715a565302f89.jar" />
+    </item>
+    <item
+        jar="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/xiovine/Documents/Vine.Products/DloadFile 6.29.34 PM/app/build/intermediates/pre-dexed/debug/classes-2af15c410bdf32e2cbe35513d26b5105d3f29a7e.jar" />
+    </item>
+
+</items>
