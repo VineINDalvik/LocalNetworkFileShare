@@ -321,6 +321,7 @@ public class FileServiceThread extends Thread{
 
     public void sendPart(byte[] bytes, int offset, int length)
     {
+        
         try
         {
             this.out.write(bytes, offset, length);
